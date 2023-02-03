@@ -9,7 +9,7 @@ It concludes the basic ACO algorithm ,but please notice that all of them are fun
 3.draw pic
 
 <2nd>The file SA_ACO_MTSP
-Traditional MTSP is only about city coordinates ,and it can not solve the concrete situation ,such as: abstacle ,dist min from city to city and so on .This algorithm will solve it.
+Traditional MTSP is only about city coordinates ,and it can not solve the concrete situation ,such as: obstacle ,dist min from city to city and so on .This algorithm will solve it.
 
 *This procedures of this algorithm are as follows:
 1.gain the best city travelling indexes by SA
